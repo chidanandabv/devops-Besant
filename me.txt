@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modifing file  in dev branch
+=======
+modifing file  in ops branch
+>>>>>>> ops
